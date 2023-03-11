@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Run the script: 
 ```
-python inter_exchange_arbitrage.py
+python3 app.py
 ```
 
 ## Supported Exchanges
